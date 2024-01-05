@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋 This is Hassan Raza
+- I am currently working as Asst.Accountant @ Kolachi Foods
+- I am currently learning Python @ Saylani
 
 <!--
 **hrofficial/hrofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
